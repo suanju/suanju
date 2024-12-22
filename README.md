@@ -22,12 +22,7 @@ const suanju = {
             crossPlatform: ["UniApp"],
         },
         devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["MySQL", "MongoDB", "SQLite", "Redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+        databases: ["MySQL", "MongoDB", "Redis"],
     }
 };
 
