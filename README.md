@@ -6,7 +6,6 @@ const suanju = {
     age: 20,
     country: "China",
     code: ["JavaScript", "TypeScript", "PHP", "Go"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
             js: ["Vue.js", "React", "Next.js"],
