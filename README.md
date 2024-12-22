@@ -10,7 +10,7 @@ const suanju = {
     technologies: {
         frontEnd: {
             js: ["Vue.js", "React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
+            css: ["Sass", "Tailwind", "Unocss"],
             uiLibraries: ["Element-UI", "Arco Design", "Ant Design"],
         },
         backEnd: {
@@ -28,15 +28,7 @@ const suanju = {
         databases: ["MySQL", "MongoDB", "SQLite", "Redis"],
         misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
         generativeAI: ["GPT", "Vectorization"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!",
+    }
 };
 
 ```
